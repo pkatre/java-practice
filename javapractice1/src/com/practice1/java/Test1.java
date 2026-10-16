@@ -10,6 +10,8 @@ public class Test1 {
 	}
 	
 	int x=20;
+	
+	
 	int marks;
 	private int marks1 = 100;
 	
@@ -52,7 +54,6 @@ public class Test1 {
 	public int getMarks() {
 		return marks1;
 	}
-	
 	
 }
 

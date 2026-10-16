@@ -12,6 +12,7 @@ public class Main {
 		
 		
 		
+		
 		 Student s = new Student();
 
 	        System.out.println("Roll number: " + s.rollNo);

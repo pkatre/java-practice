@@ -12,6 +12,7 @@ public class TestMain {
 		
 		TestB obj = new TestB();
 		
+		
 		obj.childBMethod(); //output: Child B class method
 		
 		System.out.println(obj.add(50,900));//output: 950

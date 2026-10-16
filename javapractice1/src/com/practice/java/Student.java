@@ -8,4 +8,5 @@ public class Student {
     byte age = 20;
     double percentage = 60.5;
     boolean passed = true;
+    
 }

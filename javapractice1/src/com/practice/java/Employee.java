@@ -6,4 +6,5 @@ public class Employee {
 	 double salary = 45000.50;    
 	 char departmentCode = 'T';     
 	 boolean permanentEmployee = true; 
+	 
 }
